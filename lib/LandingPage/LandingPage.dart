@@ -19,7 +19,7 @@ class LandingPage extends StatelessWidget {
           );
         } else {
           return Padding(
-            padding: const EdgeInsets.only(top: 40.0),
+            padding: const EdgeInsets.only(top: 40.0,left: 25,right: 25),
             child: Column(
               children: pageChildren(),
             ),
