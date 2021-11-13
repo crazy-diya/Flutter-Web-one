@@ -1,6 +1,6 @@
-# firstweb
+# First WEB
 
-A new Flutter project.
+https://crazy-diya.github.io/web-ui-1-demo/
 
 ## Getting Started
 
